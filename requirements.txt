@@ -1,0 +1,6 @@
+# Python 3.13 (verified with 3.13.18). Versions below are those used to produce the paper's results.
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+statsmodels==0.15.0
+openpyxl==3.1.5
